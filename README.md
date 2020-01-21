@@ -1,1 +1,1 @@
-# CourseraCapstone---IBM-Data-Science
+# COURSERA CAPSTONE: IBM-DATA SCIENCE
